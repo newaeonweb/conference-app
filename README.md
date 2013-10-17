@@ -1,5 +1,4 @@
-# Sample Application for Single Page Applications Book.
+# Sample Application.
 
 > Work in progress... don't fork or use yet.
 
-# How to install

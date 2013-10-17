@@ -1,4 +1,5 @@
-conference-app
-==============
+# Sample Application for Single Page Applications Book.
 
-Sample
+> Work in progress... don't fork or use yet.
+
+# How to install

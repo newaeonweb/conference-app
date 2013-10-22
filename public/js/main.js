@@ -1,12 +1,12 @@
 var AppRouter = Backbone.Router.extend({
 
     routes: {
-        ""                      : "home",
-        "speakers"	            : "list",
+        ""                  : "home",
+        "speakers"	: "list",
         "speakers/page/:page"	: "list",
-        "speakers/add"          : "addSpeaker",
-        "speakers/:id"          : "speakerDetails",
-        "about"                 : "about"
+        "speakers/add"         : "addSpeaker",
+        "speakers/:id"         : "speakerDetails",
+        "about"             : "about"
     },
 
     initialize: function () {

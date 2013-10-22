@@ -1,6 +1,6 @@
 {
-    "name": "wine-cellar",
-    "description": "Speaker Cellar Application",
+    "name": "Conference-App",
+    "description": "Speaker Conference Application",
     "version": "0.0.1",
     "private": true,
     "dependencies": {

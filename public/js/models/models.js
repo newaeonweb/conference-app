@@ -11,8 +11,8 @@ window.Speaker = Backbone.Model.extend({
             return value.length > 0 ? {isValid: true} : {isValid: false, message: "You must enter a name"};
         };
 
-        this.validators.skills = function (value) {
-            return value.length > 0 ? {isValid: true} : {isValid: false, message: "You must enter a grape variety"};
+        this.validators.company = function (value) {
+            return value.length > 0 ? {isValid: true} : {isValid: false, message: "You must enter a company"};
         };
 
         this.validators.country = function (value) {
@@ -44,10 +44,10 @@ window.Speaker = Backbone.Model.extend({
     defaults: {
         _id: null,
         name: "",
-        skills: "",
-        country: "USA",
-        title: "Place you title",
         company: "",
+        country: "",
+        title: "",
+        skills: "",
         description: "",
         picture: null
     }

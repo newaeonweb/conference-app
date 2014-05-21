@@ -1,5 +1,5 @@
-# Sample Application with Backbone.js, Twitter Bootstrap, Node.js, Express, and MongoDB #
+# Sample Single Page Application with Mean! #
 
-"Conference App" is a sample CRUD application built with with Backbone.js, Twitter Bootstrap, Node.js, Express, and MongoDB.
+**Conference App** is a experimental project, still broken and ugly, Don`t use.
 
-> Work in progress...Use at you own risk.
+> Work in progress...
